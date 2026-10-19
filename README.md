@@ -4,7 +4,7 @@ Ce projet m'a été proposé dans le cadre de ma formation d'ingénieur à ESIEE
 * les moteurs
 * les boutons de type "switch"/"bumper"
 
-<img src="EvalbotOledESIEE" alt="Apperçu du robot utilisé dans le cadre du projet" width="50%" height="auto">
+<img src="EvalbotOledESIEE.jpg" alt="Apperçu du robot utilisé dans le cadre du projet" width="50%" height="auto">
 
 # Description
 Avec mon binôme, nous avons décidé de développer un programme permettant d'encoder toutes les lettres de l'alphabet latin dans la mémoire du robot afin qu'il puisse ensuite les représenter dans l'espace en deux dimensions par ses déplacements. Pour réaliser notre programme nous dispositions exactement des périphériques suivants : 
@@ -18,4 +18,5 @@ Pour plus de détail sur le fonctionnement de notre programme, vous pouvez consu
 # Vidéo de test
 
 Ne disposant plus du robot et n'ayant pas de vidéo représentant l'exécution du programme finale sur notre robot, voici néanmoins un extrait vidéo d'un test effectué au cours de la phase de développement de notre projet, qui représente l'exécution d'une des instructions de notre programme ordonnant au robot de faire un quart de tour.
+
 [![Voir la vidéo du test](https://img.youtube.com/vi/3-E4ABxlX-A/hqdefault.jpg)](https://www.youtube.com/shorts/3-E4ABxlX-A?feature=share)   
